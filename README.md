@@ -1,2 +1,2 @@
 # Udacity_DeepLearning
-Udacity Deep learning course
+Projects for Udacity Deep Learning Course
