@@ -11,5 +11,7 @@ Project 2 Image classification: Build a convolutional neural network with Tensor
 
 Project 3 Face Generation: Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
 
+Project 4 Facial KeyPoint Detection using CNN
+
 
 ![Image description](Untitled.png)
